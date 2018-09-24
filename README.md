@@ -1,1 +1,2 @@
 IMO_lab9
+Kod programu do opracowania sprawozdania
